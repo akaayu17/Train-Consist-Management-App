@@ -47,7 +47,6 @@ public class UC4 {
 
         trainConsist.removeFirst();
         trainConsist.removeLast();
-
         System.out.println("After removing the first and last bogie: ");
         System.out.println(trainConsist);
 
