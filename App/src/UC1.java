@@ -25,11 +25,9 @@ public class UC1 {
 
         //creating a dynamic list
         List<String> trainConsist=new ArrayList<>();
-
         System.out.println("Train initialized sucessfully.....");
         System.out.println("Initial Bogie Count: "+trainConsist.size());
         System.out.println("Current Train Consist: "+trainConsist);
-
     }
 
 }
