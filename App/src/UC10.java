@@ -6,7 +6,6 @@ import java.util.stream.Collectors;
 /**
  *
 
-* MAIN CLASS - UseCase10TrainConsistMgmnt
 
 * Use Case 10: Count Total Seats in Train
 
