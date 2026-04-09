@@ -5,8 +5,7 @@ import java.util.stream.Collectors;
 
 /**
  * *:
- *
- * * MAIN CLASS - UseCase8TrainConsistMgmnt
+
  *
  * * Use Case 8: Filter Passenger Bogies Using Streams
  *
